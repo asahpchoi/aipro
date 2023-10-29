@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aipro/static/css/main.e58b17e9.css",
-    "main.js": "/aipro/static/js/main.5b5b6fb2.js",
+    "main.js": "/aipro/static/js/main.5a552acd.js",
     "static/css/803.f9d47aa9.chunk.css": "/aipro/static/css/803.f9d47aa9.chunk.css",
     "static/js/803.9417369c.chunk.js": "/aipro/static/js/803.9417369c.chunk.js",
     "static/js/3024.ad6b7854.chunk.js": "/aipro/static/js/3024.ad6b7854.chunk.js",
@@ -66,7 +66,7 @@
     "static/media/6.jpg": "/aipro/static/media/6.edefb235566ed72a7429.jpg",
     "index.html": "/aipro/index.html",
     "main.e58b17e9.css.map": "/aipro/static/css/main.e58b17e9.css.map",
-    "main.5b5b6fb2.js.map": "/aipro/static/js/main.5b5b6fb2.js.map",
+    "main.5a552acd.js.map": "/aipro/static/js/main.5a552acd.js.map",
     "803.f9d47aa9.chunk.css.map": "/aipro/static/css/803.f9d47aa9.chunk.css.map",
     "803.9417369c.chunk.js.map": "/aipro/static/js/803.9417369c.chunk.js.map",
     "3024.ad6b7854.chunk.js.map": "/aipro/static/js/3024.ad6b7854.chunk.js.map",
@@ -122,6 +122,6 @@
   },
   "entrypoints": [
     "static/css/main.e58b17e9.css",
-    "static/js/main.5b5b6fb2.js"
+    "static/js/main.5a552acd.js"
   ]
 }
